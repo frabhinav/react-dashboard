@@ -102,7 +102,7 @@ function Navbar() {
             <div className="icon  bg-[#d18585] text-md text-[#884242]">
               <RiAccountBoxFill />
             </div>
-            <div className="dic text-white text-md">Yaman</div>
+            <div className="dic text-white text-md">Abhinav</div>
             <div className="dropdown  text-white text-2xl">
               <RiArrowDropDownLine />
             </div>
